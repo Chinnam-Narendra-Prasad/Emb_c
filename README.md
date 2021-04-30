@@ -1,4 +1,13 @@
-# Emb_c
+# LTTS MINI PROJECT
+# AUTOMATIC SEAT HEAT CONTROLLER IN CAR
+
+|ON|
+|:--:|
+|https://github.com/Chinnam-Narendra-Prasad/Emb_c/blob/main/simulation/Simulation%20ON.png|
+
+|ON|
+|:--:|
+|https://github.com/Chinnam-Narendra-Prasad/Emb_c/blob/main/simulation/Simulation%20OFF.png|
 
 |Cppcheck|Compile-Linux|Codacy Badge|
 |:--:|:--:|:--:|
