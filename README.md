@@ -5,7 +5,7 @@
 |:--:|
 |https://github.com/Chinnam-Narendra-Prasad/Emb_c/blob/main/simulation/Simulation%20ON.png|
 
-|ON|
+|OFF|
 |:--:|
 |https://github.com/Chinnam-Narendra-Prasad/Emb_c/blob/main/simulation/Simulation%20OFF.png|
 
